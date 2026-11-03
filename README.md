@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Ömer (laserbirdx) 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embedded%20Linux%20%7C%20Kernel%20%7C%20ARM-0d1117?style=flat-square&logo=linux&logoColor=00d26a" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Hardware-ARM%20SoC%20%7C%20NAS%20%7C%20U--Boot-0d1117?style=flat-square&logo=raspberrypi&logoColor=00d26a" alt="Hardware"/>
+  <a href="https://t.me/LaserbirdsLogs"><img src="https://img.shields.io/badge/Telegram-LaserbirdsLogs-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" alt="Telegram Channel"/></a>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Linux%20%7C%20OpenWrt%20%7C%205G%2FLTE-0d1117?style=flat-square&logo=linux&logoColor=00d26a" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Hardware-Qualcomm%20%7C%20Marvell%20%7C%20MediaTek-0d1117?style=flat-square&logo=microchip&logoColor=00d26a" alt="Hardware"/>
   <a href="https://github.com/laserbirdx"><img src="https://komarev.com/ghpvc/?username=laserbirdx&style=flat-square&color=0d1117&labelColor=0d1117&label=views" alt="Profile views"/></a>
 </p>
 
@@ -14,24 +15,28 @@
 
 ### 🇹🇷 Hakkımda
 
-Merhaba, ben **Ömer** 👋 Gömülü sistemler ve Linux çekirdeği ile ilgilenen bir geliştiriciyim.
+Merhaba, ben **Ömer** (`@laserbirdx`) 👋 Gömülü sistemler, ağ donanımları, hücresel modemler ve Linux çekirdeği üzerine odaklanan bir donanım/yazılım geliştiricisiyim.
 
-- ⚡ **Gömülü Sistemler:** ARM mimarili SoC'lar, NAS cihazları, yönlendiriciler ve IoT donanımları üzerine çalışıyorum.
-- 🐧 **Linux & Kernel:** Ana hat (mainline) Linux çekirdeği port etme, Device Tree (DTS) derleme, U-Boot bootloader özelleştirme ve donanım tersine mühendisliği (UART, I2C, GPIO, I/O registers).
-- ♻️ **Donanım Diriltme:** Üretici desteği bitmiş (EOL) eski donanımları modern açık kaynaklı işletim sistemleriyle (Debian, OpenMediaVault vb.) yeniden canlandırmayı seviyorum.
-- 🛠️ **Yazılım & Araçlar:** C, Python, Shell/Bash, systemd servisleri ve donanım kontrol arka plan programları.
+- 🌐 **Ağ Cihazları & OpenWrt:** Mikrotik (RouterBOARD), Linksys WRT, TP-Link, Zyxel, ZTE, Alcatel ve IgniteNet donanımlarına özel OpenWrt portlama, derleme ve optimizasyon.
+- 📡 **5G / 4G LTE & Baseband:** Qualcomm (Snapdragon X55 / X62 / X72), Intel XMM, Sierra Wireless, Fibocom, Baicells ve ZTE hücresel modemlerde baseband firmware analizi, AT komutları, SIM kilit açma, band/CA modding ve modem yapılandırmaları.
+- 🔌 **Donanım Kurtarma & Tersine Mühendislik:** Tuğla olmuş (bricked) cihazları UART seri konsol, SPI Flash/NAND programlama, JTAG ve EDL modları ile donanımsal olarak ayağa kaldırma.
+- 🐧 **Gömülü Linux & NAS Sistemleri:** Kapalı ekosistemli veya desteği bitmiş (EOL) ARM/MIPS donanımlara (örn. Marvell Armada 370) modern ana hat Linux çekirdeği, özel Device Tree (DTS), U-Boot ve Debian/OMV dağıtımı uyarlama.
+- 📱 **Android Düşük Seviye:** Özel kurtarma imajları (TWRP / OrangeFox / PBRP derleme), Bootloader kilit açma, kernel derleme ve düşük seviye sistem kurtarma.
+- 📢 Günlük donanım, debrick ve porting kayıtlarımı **[Telegram Kanalım @LaserbirdsLogs](https://t.me/LaserbirdsLogs)** üzerinden paylaşıyorum.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇬🇧 About Me
 
-Hi, I'm **Ömer** 👋 A developer passionate about embedded systems and the Linux kernel.
+Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializing in embedded systems, networking appliances, cellular modems, and the Linux kernel.
 
-- ⚡ **Embedded Systems:** Working with ARM-based SoCs, NAS appliances, networking hardware, and IoT devices.
-- 🐧 **Linux & Kernel:** Mainline Linux porting, Device Tree (DTS) tailoring, U-Boot bootloader tweaking, and hardware reverse engineering (UART, I2C, GPIO, hardware registers).
-- ♻️ **Hardware Revival:** Breathing new life into discontinued (EOL) proprietary hardware using modern open-source distributions (Debian, OpenMediaVault, etc.).
-- 🛠️ **Software & Tools:** C, Python, Shell scripting, systemd architecture, and low-level hardware daemon engineering.
+- 🌐 **Networking & OpenWrt:** Custom OpenWrt porting, kernel compilation, and performance tuning for Mikrotik (RouterBOARD), Linksys WRT, TP-Link, Zyxel, ZTE, Alcatel, and IgniteNet routers/APs.
+- 📡 **5G / 4G LTE & Baseband Engineering:** In-depth baseband firmware analysis, AT commands, carrier/SIM unlock, band locking/aggregation, and modem diagnostics across Qualcomm (Snapdragon X55/X62/X72), Intel XMM, Sierra Wireless, Fibocom, Baicells, and ZTE platforms.
+- 🔌 **Hardware Debricking & Reverse Engineering:** Reviving hard-bricked embedded appliances via UART serial console, SPI Flash/NAND programmers, JTAG, and Qualcomm EDL mode.
+- 🐧 **Embedded Linux & Custom OS Ports:** Porting modern mainline Linux, tailored Device Trees (DTS), U-Boot bootloaders, and Debian/OpenMediaVault stacks to discontinued (EOL) proprietary ARM/MIPS hardware.
+- 📱 **Android Low-Level & Recovery:** Custom recovery development (TWRP / OrangeFox / PBRP device trees), bootloader unlocking, custom kernel builds, and low-level firmware restoration.
+- 📢 I regularly log my hardware repairs, debricking logs, and firmware ports on **[Telegram @LaserbirdsLogs](https://t.me/LaserbirdsLogs)**.
 
 </td>
 </tr>
@@ -39,12 +44,12 @@ Hi, I'm **Ömer** 👋 A developer passionate about embedded systems and the Lin
 
 <br/>
 
-<h3 align="center">🛠️ Teknolojiler & Beceriler · Tech Stack</h3>
+<h3 align="center">🛠️ Teknolojiler & Ekosistem · Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,debian&theme=dark" alt="Languages & OS"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,raspberrypi&theme=dark" alt="Tools & Ecosystem"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,android,raspberrypi,vscode,powershell,windows&theme=dark" alt="Tools & Ecosystem"/>
 </p>
 
 <br/>
@@ -59,7 +64,19 @@ Hi, I'm **Ömer** 👋 A developer passionate about embedded systems and the Lin
 
 <p align="center">
   <b><a href="https://github.com/laserbirdx/seagate-nas2bay-omv">seagate-nas2bay-omv</a></b><br/>
-  <i>Debian 12 (Bookworm) and OpenMediaVault 7 ported to the Seagate NAS 2-Bay (Marvell Armada 370 SoC) with custom OMV plugins, intelligent fan curve, chassis LEDs, hardware buttons, and fail-safe U-Boot bootloader fallback.</i>
+  <i>Debian 12 (Bookworm) and OpenMediaVault 7 ported to the Seagate NAS 2-Bay (Marvell Armada 370 SoC) with native OMV plugins, intelligent fan curve, chassis LEDs, hardware buttons, and fail-safe U-Boot bootloader rollback.</i>
+</p>
+
+<br/>
+
+<h3 align="center">📢 Günlük Çalışmalarım · Lab Logs</h3>
+
+<p align="center">
+  <a href="https://t.me/LaserbirdsLogs">
+    <img src="https://img.shields.io/badge/Telegram%20Channel-LaserbirdsLogs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram LaserbirdsLogs"/>
+  </a>
+  <br/>
+  <sub>Router OpenWrt portları, 5G/LTE baseband modding, UART debrick ve gömülü sistem çalışmalarımın günlük kayıtları.</sub>
 </p>
 
 <br/>
