@@ -47,9 +47,13 @@ Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializin
 <h3 align="center">🛠️ Teknolojiler & Ekosistem · Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,debian&theme=dark" alt="Languages & OS"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,debian&theme=dark" alt="Languages & OS" style="vertical-align: middle;"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/laserbirdx/laserbirdx/main/assets/icons/openwrt.svg" width="48" height="48" alt="OpenWrt" title="OpenWrt" style="vertical-align: middle;"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/laserbirdx/laserbirdx/main/assets/icons/pfsense.svg" width="48" height="48" alt="pfSense" title="pfSense" style="vertical-align: middle;"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,android,raspberrypi,vscode,powershell,windows&theme=dark" alt="Tools & Ecosystem"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,android,raspberrypi,vscode,powershell,windows&theme=dark" alt="Tools & Ecosystem" style="vertical-align: middle;"/>
 </p>
 
 <br/>
