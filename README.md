@@ -62,12 +62,19 @@ Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializin
 
 <p align="center">
   <a href="https://github.com/laserbirdx/seagate-nas2bay-omv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laserbirdx&repo=seagate-nas2bay-omv&theme=dark&bg_color=0d1117&border_color=1f252d&title_color=00d26a&icon_color=00d26a" width="65%" alt="seagate-nas2bay-omv"/>
+    <img src="https://raw.githubusercontent.com/laserbirdx/laserbirdx/main/assets/banner.jpg" width="85%" alt="Seagate NAS 2-Bay Debian 12 + OMV 7"/>
   </a>
 </p>
 
 <p align="center">
-  <b><a href="https://github.com/laserbirdx/seagate-nas2bay-omv">seagate-nas2bay-omv</a></b><br/>
+  <a href="https://github.com/laserbirdx/seagate-nas2bay-omv/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-00d26a?style=flat-square&logo=github" alt="Release"/></a>
+  <img src="https://img.shields.io/badge/Debian-12%20(Bookworm)-0d1117?style=flat-square&logo=debian" alt="Debian"/>
+  <img src="https://img.shields.io/badge/OpenMediaVault-7%20(Sandworm)-0d1117?style=flat-square&logo=linux" alt="OMV"/>
+  <img src="https://img.shields.io/badge/SoC-Marvell%20Armada%20370-0d1117?style=flat-square" alt="Armada 370"/>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/laserbirdx/seagate-nas2bay-omv">laserbirdx/seagate-nas2bay-omv</a></b><br/>
   <i>Debian 12 (Bookworm) and OpenMediaVault 7 ported to the Seagate NAS 2-Bay (Marvell Armada 370 SoC) with native OMV plugins, intelligent fan curve, chassis LEDs, hardware buttons, and fail-safe U-Boot bootloader rollback.</i>
 </p>
 
@@ -89,8 +96,4 @@ Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializin
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laserbirdx&theme=dark&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&date_format=j%20M%20Y&card_width=520&hide_border=false" width="70%" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laserbirdx&show_icons=true&theme=dark&bg_color=0d1117&border_color=1f252d&title_color=00d26a&icon_color=00d26a&text_color=e8ecf1" width="55%" alt="GitHub stats"/>
 </p>
