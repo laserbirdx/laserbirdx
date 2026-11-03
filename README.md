@@ -53,7 +53,7 @@ Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializin
   &nbsp;
   <img src="https://raw.githubusercontent.com/laserbirdx/laserbirdx/main/assets/icons/pfsense.svg" width="48" height="48" alt="pfSense" title="pfSense" style="vertical-align: middle;"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,android,raspberrypi,vscode,powershell,windows&theme=dark" alt="Tools & Ecosystem" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,raspberrypi,vscode,powershell,windows&theme=dark" alt="Tools & Ecosystem" style="vertical-align: middle;"/>
 </p>
 
 <br/>
