@@ -80,6 +80,66 @@ Hi, I'm **Ömer** (`@laserbirdx`) 👋 Hardware & software developer specializin
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/laserbirdx/dla-x301-openwrt">
+    <img src="https://raw.githubusercontent.com/laserbirdx/dla-x301-openwrt/main/assets/banner.jpg" width="85%" alt="OpenWrt on D-Link DLA-X301"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laserbirdx/dla-x301-openwrt/releases/latest"><img src="https://img.shields.io/badge/Release-2026.11.05-00d26a?style=flat-square&logo=github" alt="Release"/></a>
+  <img src="https://img.shields.io/badge/OpenWrt-SNAPSHOT%20(6.18)-0d1117?style=flat-square&logo=openwrt" alt="OpenWrt"/>
+  <img src="https://img.shields.io/badge/SoC-Qualcomm%20IPQ5018-0d1117?style=flat-square" alt="IPQ5018"/>
+  <img src="https://img.shields.io/badge/Wi--Fi-6%20(QCN6122)-0d1117?style=flat-square" alt="Wi-Fi 6"/>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/laserbirdx/dla-x301-openwrt">laserbirdx/dla-x301-openwrt</a></b><br/>
+  <i>OpenWrt port for the D-Link DLA-X301 Wi-Fi 6 access point (Qualcomm IPQ5018 + QCN6122): custom device tree, SPI-NAND SET_FEATURE fix, NAND sysupgrade, both radios and LuCI.</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/laserbirdx/baicells-eg3065m-openwrt">
+    <img src="https://raw.githubusercontent.com/laserbirdx/baicells-eg3065m-openwrt/main/assets/banner.webp" width="85%" alt="OpenWrt on Baicells EG3065M-NR9"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laserbirdx/baicells-eg3065m-openwrt/releases/latest"><img src="https://img.shields.io/badge/Release-2026.09.28-00d26a?style=flat-square&logo=github" alt="Release"/></a>
+  <img src="https://img.shields.io/badge/OpenWrt-SNAPSHOT%20(6.18)-0d1117?style=flat-square&logo=openwrt" alt="OpenWrt"/>
+  <img src="https://img.shields.io/badge/SoC-MediaTek%20MT7981-0d1117?style=flat-square" alt="MT7981"/>
+  <img src="https://img.shields.io/badge/5G-Quectel%20RG500U--EB-0d1117?style=flat-square" alt="5G modem"/>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/laserbirdx/baicells-eg3065m-openwrt">laserbirdx/baicells-eg3065m-openwrt</a></b><br/>
+  <i>OpenWrt port for the Baicells EG3065M-NR9 5G CPE (MediaTek MT7981): custom device tree, 5G data via QModem, and a sysupgrade handler for the stock dual-slot U-Boot that keeps the original firmware restorable.</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/laserbirdx/ricon-s9922l-openwrt">
+    <img src="https://raw.githubusercontent.com/laserbirdx/ricon-s9922l-openwrt/main/assets/banner.webp" width="85%" alt="OpenWrt on Ricon / Alotcer S9922L"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laserbirdx/ricon-s9922l-openwrt/releases/latest"><img src="https://img.shields.io/badge/Release-2026.10.01-00d26a?style=flat-square&logo=github" alt="Release"/></a>
+  <img src="https://img.shields.io/badge/OpenWrt-23.05%20(5.15)-0d1117?style=flat-square&logo=openwrt" alt="OpenWrt"/>
+  <img src="https://img.shields.io/badge/SoC-MediaTek%20MT7620A-0d1117?style=flat-square" alt="MT7620A"/>
+  <img src="https://img.shields.io/badge/LTE-Yuga%20CLM920-0d1117?style=flat-square" alt="LTE modem"/>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/laserbirdx/ricon-s9922l-openwrt">laserbirdx/ricon-s9922l-openwrt</a></b><br/>
+  <i>OpenWrt 23.05 port for the Ricon / Alotcer S9922L industrial 4G router (MediaTek MT7620A): custom device tree, kernel-level feeder for the external hardware watchdog, LTE over QMI.</i>
+</p>
+
+<br/>
+
 <h3 align="center">📢 Günlük Çalışmalarım · Lab Logs</h3>
 
 <p align="center">
